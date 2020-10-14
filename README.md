@@ -25,4 +25,6 @@ Este Repositório contém conteudo proprietário e **deve ser usado com intenç�
 
 [FluidSIM Hydralic](https://github.com/000-NameLezz/Standard-School-Programs/raw/master/fluidsim%20Hydraulic-%20portable3.zip)
 
-[ZelioSoft](https://1drv.ms/u/s!AmWZDxs62xWzvVLna7nt5wQRPWd1?e=UdStjt)
+[Proteus (OneDrive)](https://1drv.ms/u/s!AmWZDxs62xWzvVP-jfMmxMYOIHOs?e=5mo9zW)
+
+[ZelioSoft (OneDrive)](https://1drv.ms/u/s!AmWZDxs62xWzvVLna7nt5wQRPWd1?e=UdStjt)
