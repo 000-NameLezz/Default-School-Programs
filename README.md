@@ -18,6 +18,11 @@ Este Repositório contém conteudo proprietário e **deve ser usado com intenç�
 ## Direct Download Links:
 
 [CADe SIMU](https://github.com/000-NameLezz/Standard-School-Programs/raw/master/CADe_SIMU_V3%20Idioma_3.0.zip)
+
 [EWB](https://github.com/000-NameLezz/Standard-School-Programs/raw/master/EWB.zip)
+
 [FluidSIM Neumatic](https://github.com/000-NameLezz/Standard-School-Programs/raw/master/FluidSIM-Pneum%C3%A1tica.zip)
+
 [FluidSIM Hydralic](https://github.com/000-NameLezz/Standard-School-Programs/raw/master/fluidsim%20Hydraulic-%20portable3.zip)
+
+[ZelioSoft](https://1drv.ms/u/s!AmWZDxs62xWzvVLna7nt5wQRPWd1?e=UdStjt)
